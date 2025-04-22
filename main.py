@@ -85,7 +85,7 @@ def create_ball(radius, pos):
 
     space.add(body, shape, pivot)
     return shape
-
+    
 # Setup game balls
 balls = []
 rows = 5
